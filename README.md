@@ -25,7 +25,7 @@ server if you need it.
 
 The easiest is to run this from a docker container:
 
-    docker-compose up
+    docker compose up
 
 or
 
